@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Personagem
+comment1.params=
+comment1.target=Personagem()
+comment2.params=DPS\ Range
+comment2.target=void\ encontrandoInimigos(int,\ int)
+numComments=3
